@@ -1,8 +1,8 @@
 # Đề tài 16: Tiệm giặt là - Nhóm 8
-Nguyễn Tấn Tài - 2606042030
-Nguyễn Công Thái - 2606042027
-Vũ Gia Phúc - 2606042026
-Yêu cầu thực hiện:
+1.Nguyễn Tấn Tài - 2606042030
+2.Nguyễn Công Thái - 2606042027
+3.Vũ Gia Phúc - 2606042026
+# Yêu cầu thực hiện:
 *Về quy trình thực hiện theo từng buớc:
 +Tiếp nhận -> Lập hoá đơn -> Thực hiện -> Trả đồ.
 **Về chức năng:
